@@ -1,7 +1,0 @@
-Stakeout.js
---------------------
-This code is written with NodeJS.
-In Stakeout.js there is a single exported method called planner which takes a single parameter, an array of positive integers.
-You can see the code in action by running TestStakeout.js using the following code in terminal
-	$node TestStakeout.js
-
